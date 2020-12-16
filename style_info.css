@@ -1,0 +1,28 @@
+body
+{
+    background-color: blanchedalmond;
+}
+header
+{
+    font-size: 45px;
+}
+header, p
+{
+    text-align: center;
+}
+#txtArea
+{
+    margin-top: 10px;
+    margin-left: 40%;
+    width: 18%;
+}
+button
+{
+    margin-top: 10px;
+    margin-left: 46%;
+}
+button:last-child
+{
+    
+    width: 7%;
+}
